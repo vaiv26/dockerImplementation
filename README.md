@@ -1,5 +1,5 @@
 # dockerImplementation
-I created a Restful webservice using Node js and json database that runs in a docker whose image id is in this repository in packages.
+I created a Restful webservice using Node js and json database that runs in a docker whose image id is in this repository in package.
 The data model is:
 
 
